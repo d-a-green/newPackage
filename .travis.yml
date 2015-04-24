@@ -1,14 +1,7 @@
 language: r
-
-env:
-  matrix:
-    - TARGET=travis
-    
-apt_packages:
- - libxml2-dev
+sudo: required
 
 r_github_packages:
- - Rdatatable/data.table
  - jimhester/covr
 
 after_success:
