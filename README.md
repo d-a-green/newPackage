@@ -1,1 +1,1 @@
-test 
+[![Build Status](https://travis-ci.org/d-a-green/newPackage.svg)](https://travis-ci.org/d-a-green/newPackage)
