@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/d-a-green/newPackage.svg)](https://travis-ci.org/d-a-green/newPackage)
+[![Coverage Status](https://coveralls.io/repos/d-a-green/newPackage/badge.svg)](https://coveralls.io/r/d-a-green/newPackage)
